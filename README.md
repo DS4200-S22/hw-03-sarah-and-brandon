@@ -1,7 +1,7 @@
 # hw-03
 hw-03 - HTML+CSS &amp; Marks+Channels
 
-Link to GitHub Pages: [link](https://ds4200-s22.github.io/hw-03-sarah-and-brandon/)
+Link to GitHub Pages: [link](https://ds4200-s22.github.io/hw-03-sarah-and-brandon/) 
 
 ## Purpose
 
