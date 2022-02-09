@@ -23,6 +23,23 @@
 	margin:  1%;
 }
 
+.my-rect {
+  fill: #e0e;
+}
+
+.my-rect:hover {
+  fill: #e00;
+}
+
+
+.my-circle {
+  fill: #0ee;
+}
+
+.my-circle:hover {
+  fill: #e00;
+}
+
 body {
 	font-family:  arial;
 }
