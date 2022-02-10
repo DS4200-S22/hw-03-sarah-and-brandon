@@ -6,7 +6,7 @@
 .wrapper {
 	display:  flex;
 	flex-wrap:  wrap; 
-	<!-- flex-direction: row; -->
+	flex-direction: row; 
 	flex-flow: row wrap;
 	gap:  10px;
 	width:  100%;
@@ -18,11 +18,12 @@
 	width:  45%;
 	flex:  auto;
 	margin:  1%;
+	border:  10px solid #555;
 }
+
 
 .my-rect {
   fill: #e0e;
-  flex-wrap:  wrap;
 }
 
 .my-rect:hover {
@@ -47,7 +48,6 @@ p {
 
 img {
 	width:  100%;
-	border:  10px solid #555;
 }
 
 ul {
